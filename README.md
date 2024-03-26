@@ -3,7 +3,7 @@
 <p align="center">⚡ Listen for triggers and execute actions seamlessly.</p>
 
 <p align="center">
-    <a href="https://github.com/sakanjo/eqo/actions"><img alt="Workflow status" src="https://img.shields.io/github/actions/workflow/status/sakanjo/eqo/tests.yml?style=for-the-badge"></a>
+    <a href="https://github.com/sakanjo/eqo/actions"><img alt="Workflow status" src="https://img.shields.io/github/actions/workflow/status/sakanjo/eqo/ci.yml?style=for-the-badge"></a>
 </p>
 
 > ✨ Help support the maintenance of this package by [sponsoring me](https://github.com/sponsors/sakanjo).
